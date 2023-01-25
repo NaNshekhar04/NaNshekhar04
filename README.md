@@ -13,6 +13,6 @@
 <br>
 
 
-I'm a passionate developer who enjoys building **Node.js** APIs, creating **NPM** packages, developing **CLI** tools and experimenting with **DevOps**. I'm always looking for new ways to improve my skills and push the limits of what's possible with code and  and I believe in the power of collaboration and open-source community.
+I'm a passionate developer who enjoys building **Node.js** APIs, creating **NPM** packages, developing **CLI** tools and experimenting with **DevOps**. I'm always looking for new ways to improve my skills and push the limits of what's possible with code and I believe in the power of collaboration and open-source community.
 
 
