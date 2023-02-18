@@ -25,5 +25,7 @@ I'm a passionate learner who enjoys building **Node.js** APIs, creating **NPM** 
 <a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="Explaining HTTP as you were of age 5."><strong>Explaining HTTP as you were of age 5.</strong></a>
 <br/>HTTP is the thing that makes the Internet work. Think of it like a magic carrier pigeon that can carry letters from one place to another. Instead of carrying letters, HTTP carries information from one computer to another.... </p> <br/> <br/>
 
+If you like what I do, please consider **[buying me a Tea](https://www.buymeacoffee.com/shekhar01)**! 
 
+<a href="https://www.buymeacoffee.com/shekhar01" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
 
